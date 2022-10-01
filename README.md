@@ -80,7 +80,7 @@ This year, the first 55,000 participants can earn a T-shirt.
 
 
 ``$ cd <cloned-folder>`` 
-``$ git remote add upstream https://github.com/Priyadarshan2000/HACKTOBERFEST-2021.git ``
+``$ git remote add upstream https://github.com/raktimbar100/HACKTOBERFEST-2022.git ``
 ******
 
 #### 4️⃣ Now synchronize your forked repo:
