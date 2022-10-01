@@ -130,7 +130,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 	<tr>
 		<td>
 			<a href="https://github.com/raktimbar100/HACKTOBERFEST-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=raktimbar100/HACKTOBERFEST-2022" />
+  <img src="https://contrib.rocks/image? repo= raktimbar100/HACKTOBERFEST-2022"/>
 </a>
 		</td>
 	</tr>
